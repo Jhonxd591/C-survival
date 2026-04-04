@@ -1,0 +1,54 @@
+[23:16:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:16:41] [ServerMain/INFO]: Loaded 1470 recipes
+[23:16:41] [ServerMain/INFO]: Loaded 1584 advancements
+[23:16:41] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[23:16:41] [Server thread/INFO]: Loading properties
+[23:16:41] [Server thread/INFO]: Default game type: SURVIVAL
+[23:16:41] [Server thread/INFO]: Generating keypair
+[23:16:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:16:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:16:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:16:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:16:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:16:42] [Server thread/INFO]: Preparing level "world"
+[23:16:42] [Server thread/INFO]: Loading 0 persistent chunks...
+[23:16:42] [Server thread/INFO]: Preparing spawn area: 100%
+[23:16:42] [Server thread/INFO]: Time elapsed: 14 ms
+[23:16:42] [Server thread/INFO]: Done (0.406s)! For help, type "help"
+[23:16:47] [Server thread/INFO]: s22e310[/127.21.215.239:35463] logged in with entity id 90 at (-738.9917146243982, 66.0, 422.47044611327584)
+[23:16:47] [Server thread/INFO]: s22e310 joined the game
+[23:16:52] [Server thread/INFO]: obeja159xd[/127.21.215.239:49293] logged in with entity id 364 at (-606.5521465869148, 29.0, 428.9836318280087)
+[23:16:52] [Server thread/INFO]: obeja159xd joined the game
+[23:16:52] [Server thread/INFO]: Jhonxd500[/127.11.135.203:57315] logged in with entity id 377 at (-702.782447154469, 65.0, 395.65386315040723)
+[23:16:52] [Server thread/INFO]: Jhonxd500 joined the game
+[23:17:15] [Server thread/INFO]: obeja159xd has made the advancement [Isn't It Iron Pick]
+[23:17:30] [Server thread/INFO]: s22e310 was slain by Jhonxd500
+[23:21:20] [Server thread/INFO]: obeja159xd has made the advancement [Suit Up]
+[23:21:53] [Server thread/INFO]: obeja159xd has made the advancement [Not Today, Thank You]
+[23:21:56] [Server thread/INFO]: obeja159xd has made the advancement [Monster Hunter]
+[23:23:18] [Server thread/INFO]: Jhonxd500 has made the advancement [Sweet Dreams]
+[23:27:22] [Server thread/INFO]: Jhonxd500 has made the advancement [Acquire Hardware]
+[23:27:35] [Server thread/INFO]: Jhonxd500 has made the advancement [Isn't It Iron Pick]
+[23:28:16] [Server thread/INFO]: obeja159xd has made the advancement [Diamonds!]
+[23:29:08] [Server thread/INFO]: obeja159xd has made the advancement [Ice Bucket Challenge]
+[23:29:17] [Server thread/INFO]: obeja159xd has made the advancement [Hot Stuff]
+[23:29:32] [Server thread/INFO]: Jhonxd500 has made the advancement [Diamonds!]
+[23:30:29] [Server thread/INFO]: Jhonxd500 has made the advancement [Suit Up]
+[23:32:13] [Server thread/INFO]: Jhonxd500 has made the advancement [Not Today, Thank You]
+[23:33:42] [Server thread/INFO]: s22e310 has made the advancement [Acquire Hardware]
+[23:34:53] [Server thread/INFO]: s22e310 has made the advancement [Isn't It Iron Pick]
+[23:37:12] [Server thread/INFO]: obeja159xd has made the advancement [We Need to Go Deeper]
+[23:37:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
+[23:37:14] [Server thread/WARN]: s22e310 moved too quickly! 6.437552912305023,3.6232643862182883,-7.226311831624571
+[23:37:21] [Server thread/INFO]: obeja159xd has made the advancement [Cover Me with Diamonds]
+[23:38:01] [Server thread/INFO]: Jhonxd500 has made the advancement [Hot Stuff]
+[23:38:24] [Server thread/INFO]: [Not Secure] <obeja159xd> -99 /55 /43
+[23:38:30] [Server thread/INFO]: [Not Secure] <Jhonxd500> lag aso :V
+[23:38:37] [Server thread/INFO]: [Not Secure] <Jhonxd500> hans palteas
+[23:38:42] [Server thread/INFO]: [Not Secure] <s22e310> mira quien habla de paltear p
+[23:42:38] [Server thread/INFO]: s22e310 was slain by Zombie
+[23:42:54] [Server thread/INFO]: obeja159xd has made the advancement [A Terrible Fortress]
+[23:43:31] [Server thread/INFO]: obeja159xd has made the advancement [Into Fire]
+[23:46:01] [Server thread/INFO]: Jhonxd500 was blown up by Creeper
+[23:46:07] [Server thread/INFO]: [Not Secure] <s22e310> palteas
+[23:46:14] [Server thread/INFO]: s22e310 has made the advancement [Diamonds!]
